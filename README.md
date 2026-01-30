@@ -4,3 +4,4 @@ Day 3 :- Still working with Pandas libs and Applying more functions and methods 
 Day 4 :- Till practicing on same pandas lib but with more functions.
 Day 5 :- Worked with linear regration model and some new libs like sklearn and also learn how to plot the multiple graphs for a datasets.
 Day 6 :- today worked on linear reg model and practice on real dataset of cars.
+Day 7 :- Today i worked with NUMpy arras and slicing in array list.
