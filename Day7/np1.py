@@ -1,0 +1,10 @@
+import numpy as np 
+list = np.array([0,1,2,3,4,5,6,7,8,9])
+print(list)
+print(list.shape)
+list2 = np.arange(10)
+print(list2)
+list3 = np.arange(0,100,5)
+print(list3)
+list4 = np.zeros((3,3))
+print(list4)
